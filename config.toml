@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "La Victoria Fiestas"
-theme = "TatBanTheme"
+theme = "TatBanTheme2.0"
 disqusShortname = 'tatsatb'
 
 [markup]
