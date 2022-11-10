@@ -1,0 +1,34 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "La Victoria Fiestas"
+theme = "TatBanTheme2.0"
+disqusShortname = 'tatsatb'
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true # Allow HTML in md files
+
+            
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+            
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Gorritos de fiesta"
+    url = "/gorritos-de-fiesta/"
+    weight = 2
+  [[menu.main]]
+    name = "Publicationes"
+    url = "/publication/"
+    weight = 3
+  
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
