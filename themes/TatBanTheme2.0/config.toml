@@ -20,26 +20,21 @@ disqusShortname = 'tatsatb'
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Inicio"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Research"
-    url = "/research/"
+    name = "Gorritos de fiesta"
+    url = "/gorritos-de-fiesta/"
     weight = 2
   [[menu.main]]
-    name = "Publications"
+    name = "Publicationes"
     url = "/publication/"
     weight = 3
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 4
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
     weight = 5
-
     
 [module]
   [module.hugoVersion]
