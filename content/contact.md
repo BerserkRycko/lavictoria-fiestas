@@ -1,32 +1,34 @@
 ---
-title: "Contact"
+title: "Contacto"
 layout: singlepage
-Description: Contact details of Tatsat Banerjee
+Description: Página de contacto de Comercializadora "LA VICTORIA"
 math: true
 ---
 
 <br/><br/>
 
-### Ways to Contact {.tbh3}
+### ¿Como puedes encontrarnos? {.tbh3}
 
-<br/><br/>
+<br/>
 
-#### Email IDs and Phone No. {.tbh4}
+#### Email y whatsapp. {.tbh4}
 
-The best way to reach me is to drop an email at username@example.org. <br><br>
+Puedes mandarnos un correo electrónico, solo <a href="#" style="color: #000;">haz click Aquí</a><br><br>
+<strong>O</strong><br><br>
+Mandanos un Whatsapp al: <a href="#" style="color: #000;">+52 272-123-4567</a> 
+<br><br>
 
-Additionally you can contact me on my mobile number: +1 XXX-XXX-4985 
-<br/><br/>
+#### Aquí puedes encontrarnos {.tbh4}
 
-#### Current Address {.tbh4}
+Poniente 6, número 33, colonia centro, Orizaba, Veracruz.
 
-You can put deatails here, if you wish.
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.8132676507216!2d-97.10875368623375!3d18.85096888721739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85c502b086527e8d%3A0xc6b64a755f58a856!2sLa%20Victoria!5e0!3m2!1ses-419!2smx!4v1668135013171!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<br><br>
 
-<br/><br/>
+#### Siguenos en Redes sociales {.tbh4}
 
-#### On Social Networks {.tbh4}
-
-Here are my [Facebook account](https://www.Facebook.com/), [Twitter account](https://www.twitter.com/), and [Linkedin account](https://www.linkedin.com/)
+Puedes seguirnos a través de nuestras redes sociales. <a href="#" style="color: #000;">Facebook</a>, <a href="#" style="color: #000;">Instagram</a> y <a href="#" style="color: #000;">Tik Tok</a>
 <br/><br/><br/>
 
 

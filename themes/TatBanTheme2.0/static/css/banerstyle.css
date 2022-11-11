@@ -105,13 +105,18 @@ font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
   position: static;
   width: 355px;
 }
-
+img{
+  width: 100%;
+}
 .polaroid img {
   border: 10px solid #edeef3;
   border-bottom: 70px solid #eaedf1;
   -webkit-box-shadow: 8.5px 25px 35px #777;
      -moz-box-shadow: 8.5px 25px 35px #777;
           box-shadow: 8.5px 25px 35px #777;
+}
+.img-footer{
+  width: 15%;
 }
 
 .polaroid p {
