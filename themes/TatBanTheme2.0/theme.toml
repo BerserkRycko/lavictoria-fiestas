@@ -4,16 +4,16 @@
 name = "TatBanTheme2.0"
 license = "GNU General Public License Version 3"
 licenselink = "https://github.com/tatsatb/TatBanTheme2.0/blob/main/LICENSE"
-description = "A minimal theme to build an elegant website and a working blog"
-homepage = "http://www.tatsatbanerjee.in/"
+description = "La victoria es una tienda de artículos de fiesta, ubicada en Orizaba Veracruz"
+homepage = "rycko.online"
 demosite = "https://tatbanthemedemo.netlify.app/"
-tags = ["Blog", "Responsive", "Minimal", "Personal", "Bootstrap", "Light"]
+tags = ["Fiestas", "Artículos de fiesta", "Gorritos de Fiesta", "Globos para fiestas", "Fiestas infantiles", "Piñatas", "Fiestas de cumpleaños", "Decoraciones para fiestas"]
 features = ["responsive", "mobile-first", "landing page", "navigation"]
 min_version = "0.60.0"
 
 [author]
-  name = "Tatsat Banerjee"
-  homepage = "https://www.tatsatbanerjee.in"
+  name = "Rycko"
+  homepage = "https://rycko.online"
 
 # If porting an existing theme
 [original]

@@ -28,7 +28,7 @@ Poniente 6, número 33, colonia centro, Orizaba, Veracruz.
 
 #### Siguenos en Redes sociales {.tbh4}
 
-Puedes seguirnos a través de nuestras redes sociales. <a href="#" style="color: #000;">Facebook</a>, <a href="#" style="color: #000;">Instagram</a> y <a href="#" style="color: #000;">Tik Tok</a>
+Puedes seguirnos a través de nuestras redes sociales. <a href="https://www.facebook.com/ComercializadoraLaVictoria/" style="color: #000;">Facebook</a>, <a href="https://www.instagram.com/comerlavictoriaorizaba" style="color: #000;">Instagram</a> y <a href="https://www.tiktok.com/@la_victoria_orizaba" style="color: #000;">Tik Tok</a>
 <br/><br/><br/>
 
 
